@@ -25,6 +25,7 @@
   </div>
    <p>Experience:</p>
       <ul>
+        <li>LLM & VLM  Intern @ReDX Technologies - Current</li>
         <li>AI Engineer Intern @Securas Technologies - Summer 2024</li>
         <li>AI Software  Engineer Intern @Business Software - Summer 2023</li> 
         <li>Data Science Intern @CodeClause - March 2023</li>
