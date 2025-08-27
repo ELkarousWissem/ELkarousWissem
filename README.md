@@ -15,19 +15,21 @@
     <p>Glad to see you here!</p>
     <p>Here's a quick summary:</p>
     <ul>
-      <li>ICT MSc Student</li>
+      <li>AI Research Scientist </li>
+
+      <li>ICT MSc graduated </li>
       <li>AI Engineer</li>
-      <li>Seeking an End-of-Studies Internship in Data Science/ AI Engineering <br/>
-      (4+ months, starting Feb 2025)</li>
     </ul>
     
    
   </div>
    <p>Experience:</p>
       <ul>
-        <li>LLM & VLM  Intern @ReDX Technologies - Current</li>
+        <li>MLE @ReDX Technologies - Current</li>
+        <li>AI department Lead @ Microsoft ISSATso Club- 24/25</li>
         <li>AI Engineer Intern @Securas Technologies - Summer 2024</li>
         <li>AI Software  Engineer Intern @Business Software - Summer 2023</li> 
+        <li>Machine learning department Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
         <li>Data Science Intern @CodeClause - March 2023</li>
         <li>Machine learning department Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
       </ul>
@@ -139,7 +141,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=wissemkarous&theme=onedark)](https://github.com/wissemkarous/github-profile-trophy)
 <br/>  
 
-[![wissem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wissemkarous&theme=dracula)](https://github.com/wissemkarous/github-readme-activity-graph)
-<br/>  
 
-[![committers.top badge](https://user-badge.committers.top/tunisia/wissemkarous.svg)](https://user-badge.committers.top/tunisia/wissemkarous)
