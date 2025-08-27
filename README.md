@@ -20,19 +20,20 @@
       <li>AI Engineer</li>
     </ul>
 
-    <p><strong>Experience:</strong></p>
-    <ul>
-      <li>MLE @ ReDX Technologies - Current</li>
-      <li>AI Department Lead @ Microsoft ISSATso Club - 24/25</li>
-      <li>AI Engineer Intern @ Securas Technologies - Summer 2024</li>
-      <li>AI Software Engineer Intern @ Business Software - Summer 2023</li>
-      <li>Machine Learning Dept Lead @ GDSC - 23/24</li>
-      <li>Data Science Intern @ CodeClause - March 2023</li>
-    </ul>
+   
+  </div>
+   <p>Experience:</p>
+      <ul>
+        <li>MLE @ ReDX Technologies - Current</li>
+        <li>AI Department Lead @ Microsoft ISSATso Club - 24/25</li>
+        <li>AI Engineer Intern @ Securas Technologies - Summer 2024</li>
+        <li>AI Software Engineer Intern @ Business Software - Summer 2023</li>
+        <li>Machine Learning Dept Lead @ GDSC - 23/24</li>
+        <li>Data Science Intern @ CodeClause - March 2023</li>
+      </ul>
   <!-- Image on the right -->
   
-</div>
-
+</div>    
 
 ## Connect with me:
 <div align="center">
