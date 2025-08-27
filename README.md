@@ -16,7 +16,6 @@
     <p>Here's a quick summary:</p>
     <ul>
       <li>AI Research Scientist </li>
-
       <li>ICT MSc graduated </li>
       <li>AI Engineer</li>
     </ul>
