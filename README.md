@@ -30,7 +30,6 @@
         <li>AI Software  Engineer Intern @Business Software - Summer 2023</li> 
         <li>Machine learning department Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
         <li>Data Science Intern @CodeClause - March 2023</li>
-        <li>Machine learning department Lead @Google Developer Student Clubs (GDSC) - 23/24</li>
       </ul>
   <!-- Image on the right -->
   
