@@ -27,8 +27,8 @@
         <li>MLE @ ReDX Technologies - Current</li>
         <li>AI Department Lead @ Microsoft ISSATso Club - 24/25</li>
         <li>AI Engineer Intern @ Securas Technologies - Summer 2024</li>
-        <li>AI Software Engineer Intern @ Business Software - Summer 2023</li>
         <li>Machine Learning Dept Lead @ GDSC - 23/24</li>
+        <li>AI Software Engineer Intern @ Business Software - Summer 2023</li>
         <li>Data Science Intern @ CodeClause - March 2023</li>
       </ul>
   <!-- Image on the right -->
