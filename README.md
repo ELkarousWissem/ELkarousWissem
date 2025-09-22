@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/-Hugging%20Face-f9e03b?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" style="margin-right: 10px;" />
   </a>
   <!-- Added Portfolio link -->
-  <a href="https://wissemkarous.github.io/Wissem.Karous-Portfolio/"target="_blank">
+  <a href="[https://keen-dragon-8d9ce22.netlify.app/](https://keen-dragon-8d9ce22.netlify.app/)"target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Added Gmail link -->
