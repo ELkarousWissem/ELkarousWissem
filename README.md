@@ -127,6 +127,5 @@
 </p>
 
 
-![wissemkarous's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissemkarous&theme=default&show_icons=true&hide_border=true&layout=compact)
 <br/>  
 
