@@ -24,12 +24,7 @@
   </div>
    <p>Experience:</p>
       <ul>
-        <li>MLE @ ReDX Technologies - Current</li>
-        <li>AI Department Lead @ Microsoft ISSATso Club - 24/25</li>
-        <li>AI Engineer Intern @ Securas Technologies - Summer 2024</li>
-        <li>Machine Learning Dept Lead @ GDSC - 23/24</li>
-        <li>AI Software Engineer Intern @ Business Software - Summer 2023</li>
-        <li>Data Science Intern @ CodeClause - March 2023</li>
+        <li>Researcher @ ReDX Technologies - Current</li>
       </ul>
   <!-- Image on the right -->
   
@@ -55,10 +50,6 @@
    <!-- Added Hugging Face account link -->
   <a href="https://huggingface.co/wissemkarous" target="_blank">
     <img src="https://img.shields.io/badge/-Hugging%20Face-f9e03b?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" style="margin-right: 10px;" />
-  </a>
-  <!-- Added Portfolio link -->
-  <a href="https://keen-dragon-8d9ce22.netlify.app/"target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Added Gmail link -->
   <a href="mailto:karouswissem@gmail.com" target="_blank">
