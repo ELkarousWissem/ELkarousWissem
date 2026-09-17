@@ -45,11 +45,13 @@ I enjoy the entire process:
 
 <td width="42%" align="center">
 
-<img
-src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-width="340"
-alt="Coding animation"
-/>
+<a href="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553">
+  <img
+    src="https://media.tenor.com/images/..."
+    width="330"
+    alt="Programmer typing"
+  />
+</a>
 
 <br/>
 
