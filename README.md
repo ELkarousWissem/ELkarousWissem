@@ -1,120 +1,87 @@
-<h1 align="center">Hello World! I'm Wissem 👋</h1>     
-<br/>     
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=wissemkarous&&style=flat-square" align="center" /> 
-</div>   
-<br/>   
-<div align="right">
-    <img src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" alt="Description de l'image" align="right" height="200" width="380" />
-</div>
-<!-- Main layout: Text on the left and Image on the right -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <!-- Text on the left -->
-  <div style="flex: 2; padding-right: 20px;">
-    <p>Glad to see you here!</p>
-    <p>Here's a quick summary:</p>
-    <ul>
-      <li>AI Research Scientist</li>
-    </ul>
-
-   
-  </div>
-   <p>Experience:</p>
-      <ul>
-        <li>Researcher @ ReDX Technologies - Current</li>
-      </ul>
-  <!-- Image on the right -->
-  
-</div>    
-
-## Connect with me:
 <div align="center">
-  <a href="https://github.com/wissemkarous" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/wissem-karous-32b4b6225" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/wissemkarous" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.kaggle.com/Wissemkarous" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://leetcode.com/wissemkarous/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" style="margin-bottom: 5px;" />
-  </a>
-   <!-- Added Hugging Face account link -->
-  <a href="https://huggingface.co/wissemkarous" target="_blank">
-    <img src="https://img.shields.io/badge/-Hugging%20Face-f9e03b?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face" style="margin-right: 10px;" />
-  </a>
-  <!-- Added Gmail link -->
-  <a href="mailto:karouswissem@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
-</div>  
+# 🌸 Hello World, I'm Wissem 👋
 
-<br/> 
+### AI Research Scientist · Deep Learning · NLP · Intelligent Systems
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Research+Scientist+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%9A%80;Building+Intelligent+Systems+%E2%9C%A8;Anime+Energy+%2B+Research+Mindset+%F0%9F%8C%B8" alt="Typing SVG" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
+
+</div>
+
+---
+
+<img align="right" height="240" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M4Mnhlczc4cW1wN3J4b3kwMmNubzA1d2d1aGg3dzZqZnBpcDh3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" />
+
+## 🌸 About Me
+
+Hey there! Glad to see you here ✨
+
+I'm **Wissem**, an **AI Research Scientist** passionate about building intelligent systems and exploring the world of **Artificial Intelligence**.
+
+### 🍥 Quick Summary
+- 🧠 AI Research Scientist  
+- 🔬 Researcher @ **ReDX Technologies**
+- 🤖 Interested in **Deep Learning, NLP, LLMs, and AI Agents**
+- 🛠️ I enjoy building **real-world AI systems**
+- 📚 Always learning, experimenting, and improving
+- 🌙 Anime lover with a passion for tech & creativity
+
+<br clear="right"/>
+
+---
+
+## ✨ Current Focus
+
+<div align="center">
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-c77dff?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-ffd166?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-a78bfa?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-f472b6?style=for-the-badge)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F61?style=for-the-badge"/>
+</p>
 
-<br/>  
+### 💻 Development
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,postman,linux" />
+</p>
+
+### 📊 Analytics & Other Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+</p>
+
+---
+
+## 🌙 A Few Things About Me
+
+```text
+💖 I love blending research with real implementation
