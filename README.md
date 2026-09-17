@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Hello World, I'm Wissem
+# HI I'm Wissem
 
 ### AI Research Scientist · Deep Learning · NLP · Intelligent Systems
 
