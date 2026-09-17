@@ -178,8 +178,6 @@ Currently exploring how intelligent models can become more **accurate, efficient
                 CURIOSITY    ████████████  MAX
 ```
 
-### ⚔️ 「 The next level doesn't unlock itself. 」
 
-**Thanks for entering my domain.**
 
 </div>
