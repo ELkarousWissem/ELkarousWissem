@@ -1,87 +1,185 @@
 <div align="center">
 
-# 🌸 Hello World, I'm Wissem 👋
+# ⚔️ Hello World, I'm Wissem
 
 ### AI Research Scientist · Deep Learning · NLP · Intelligent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Research+Scientist+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%9A%80;Building+Intelligent+Systems+%E2%9C%A8;Anime+Energy+%2B+Research+Mindset+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=AI+Research+Scientist+%F0%9F%A7%A0;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Intelligent+Systems+%E2%9A%A1;Research+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Repeat;Welcome+to+my+digital+domain+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=0A66C2" />
+
+<br/><br/>
+
+> **「限界を超えろ」 — Go beyond your limits.**
 
 </div>
 
 ---
 
-<img align="right" height="240" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M4Mnhlczc4cW1wN3J4b3kwMmNubzA1d2d1aGg3dzZqZnBpcDh3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" />
+<img align="right" src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" width="390" height="210"/>
 
-## 🌸 About Me
+## ⚡ About Me
 
-Hey there! Glad to see you here ✨
+```yaml
+name: Wissem Karous
+role: AI Research Scientist
+current: Researcher @ ReDX Technologies
 
-I'm **Wissem**, an **AI Research Scientist** passionate about building intelligent systems and exploring the world of **Artificial Intelligence**.
+interests:
+  - Artificial Intelligence
+  - Deep Learning
+  - NLP & LLMs
+  - Computer Vision
+  - AI Agents
+  - Intelligent Systems
 
-### 🍥 Quick Summary
-- 🧠 AI Research Scientist  
-- 🔬 Researcher @ **ReDX Technologies**
-- 🤖 Interested in **Deep Learning, NLP, LLMs, and AI Agents**
-- 🛠️ I enjoy building **real-world AI systems**
-- 📚 Always learning, experimenting, and improving
-- 🌙 Anime lover with a passion for tech & creativity
+mindset:
+  "Learn. Experiment. Break things. Improve."
+```
+
+I enjoy taking ideas from **research papers → experiments → working systems**.
+
+Currently exploring how intelligent models can become more **accurate, efficient, robust, and useful in real-world applications**.
 
 <br clear="right"/>
 
 ---
 
-## ✨ Current Focus
+## 🧠 Research Domain
 
 <div align="center">
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-c77dff?style=for-the-badge&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-ffd166?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-a78bfa?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-f472b6?style=for-the-badge)
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Deep_Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=7C3AED"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🗡️ Arsenal
 
-### 🤖 AI / ML / Data
+### AI / Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF6F61?style=for-the-badge"/>
-</p>
+<div align="center">
 
-### 💻 Development
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Hugging_Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,postman,linux" />
-</p>
+</div>
 
-### 📊 Analytics & Other Tools
+### Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,js,nodejs,express,react,mongodb,mysql,postman" />
 </p>
+
+### Data & Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/>
+<img src="https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=00AEEF"/>
+
+</div>
 
 ---
 
-## 🌙 A Few Things About Me
+## 🌀 Current Arc
 
 ```text
-💖 I love blending research with real implementation
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   🧠  Deep Learning                                 ║
+║   🤖  LLMs & AI Agents                             ║
+║   🗣️  Natural Language Processing                  ║
+║   👁️  Computer Vision                              ║
+║   🔎  Retrieval & Semantic Search                  ║
+║   📊  AI Evaluation & Observability                ║
+║   🧪  Research → Experiments → Real Systems        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📖 Character Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wissemkarous&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wissemkarous&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissemkarous&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 🌌 Elsewhere On The Internet
+
+<div align="center">
+
+<a href="https://github.com/wissemkarous">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/wissem-karous-32b4b6225">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.kaggle.com/Wissemkarous">
+<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
+</a>
+
+<a href="https://huggingface.co/wissemkarous">
+<img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+</a>
+
+<a href="https://leetcode.com/wissemkarous/">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="mailto:karouswissem@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+                   ────  SYSTEM STATUS  ────
+
+                RESEARCHING  ████████████  ACTIVE
+                LEARNING     ████████████  ALWAYS
+                CURIOSITY    ████████████  MAX
+```
+
+### ⚔️ 「 The next level doesn't unlock itself. 」
+
+**Thanks for entering my domain.**
+
+</div>
