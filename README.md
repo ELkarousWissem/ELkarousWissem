@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🍥 HI, I'M WISSEM 🍥
+# 🥷 HI, I'M WISSEM 🥷
 
 ### AI Research Scientist · Deep Learning · NLP · Intelligent Systems
-#### 🌀 *Shinobi of the Hidden Leaf of Machine Learning* 🌀
+#### 🌀 *A shinobi of machine learning* 🌀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=Believe+it!+I'm+an+AI+Research+Scientist+%F0%9F%8D%A5;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Training+my+models+like+a+shinobi+%F0%9F%A5%B7;Research+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Repeat;Welcome+to+the+Hidden+Leaf+Village+%F0%9F%8D%83" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=AI+Research+Scientist+%F0%9F%A5%B7;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Training+my+models+like+a+shinobi+%F0%9F%94%A5;Research+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Repeat;Welcome+to+my+dojo+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=FF6B00&label=VILLAGERS+VISITED" />
+<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=FF6B00&label=VISITORS" />
 
 <br/><br/>
 
-> **🔥 Never give up. Train harder. Surpass your limits. That's my ninja way. 🔥**
+> **🔥 Never give up. Train harder. Surpass your limits. 🔥**
 
 </div>
 
@@ -21,15 +21,14 @@
 
 <img align="right" src="https://github.com/wissemkarous/wissemkarous/assets/115191512/d39fd366-49d7-4a9a-a437-74ed8886e1e2" width="390" height="210"/>
 
-## 🍃 Ninja Profile
+## 🏯 Ninja Profile
 
 ```yaml
 name: Wissem Karous
-village: Hidden Leaf (a.k.a. the Internet) 🍃
-rank: AI Research Scientist (Jonin-level in progress)
+role: AI Research Scientist
 current_mission: Researcher @ ReDX Technologies
 
-chakra_natures:
+focus:
   - Artificial Intelligence
   - Deep Learning
   - NLP & LLMs
@@ -37,18 +36,18 @@ chakra_natures:
   - AI Agents
   - Intelligent Systems
 
-nindo: "Learn. Experiment. Break things. Improve."
+way_of_the_ninja: "Learn. Experiment. Break things. Improve."
 ```
 
-I love turning **forbidden scrolls (research papers) → training grounds (experiments) → battle-ready systems**.
+I love turning **ancient scrolls (research papers) → training grounds (experiments) → battle-ready systems**.
 
-Currently mastering how intelligent models can become more **accurate, efficient, robust, and useful in real-world missions**.
+Currently exploring how intelligent models can become more **accurate, efficient, robust, and useful in real-world missions**.
 
 <br clear="right"/>
 
 ---
 
-## 🌀 Chakra Natures (Research Domains)
+## 🌀 Research Domains
 
 <div align="center">
 
@@ -62,9 +61,9 @@ Currently mastering how intelligent models can become more **accurate, efficient
 
 ---
 
-## 🥷 Ninja Tools & Jutsu Scrolls
+## 🥷 Ninja Tools
 
-### 🔥 Ninjutsu — AI / Machine Learning
+### 🔥 AI / Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
@@ -79,13 +78,13 @@ Currently mastering how intelligent models can become more **accurate, efficient
 
 </div>
 
-### ⚔️ Taijutsu — Development
+### ⚔️ Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,js,nodejs,express,react,mongodb,mysql,postman" />
 </p>
 
-### 📜 Fuinjutsu — Data & Engineering
+### 📜 Data & Engineering
 
 <div align="center">
 
@@ -99,32 +98,31 @@ Currently mastering how intelligent models can become more **accurate, efficient
 
 ---
 
-## 🍥 Current Training Arc
+## 🌀 Current Training Arc
 
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   🧠  Deep Learning              [ Rasengan Practice ]║
-║   🤖  LLMs & AI Agents           [ Shadow Clones     ]║
-║   🗣️  Natural Language Processing [ Summoning Jutsu   ]║
-║   👁️  Computer Vision            [ Sharingan Training ]║
-║   🔎  Retrieval & Semantic Search [ Sensory Tracking   ]║
-║   📊  AI Evaluation & Observability [ Chakra Control   ]║
-║   🧪  Research → Experiments → Real Systems           ║
+║   🧠  Deep Learning                                 ║
+║   🤖  LLMs & AI Agents                             ║
+║   🗣️  Natural Language Processing                  ║
+║   👁️  Computer Vision                              ║
+║   🔎  Retrieval & Semantic Search                  ║
+║   📊  AI Evaluation & Observability                ║
+║   🧪  Research → Experiments → Real Systems        ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🏯 Ninja Rank Progress
+## 🏆 Rank Progress
 
 ```text
-  Academy Student  ████████████████████  ✔ Graduated
-  Genin            ████████████████████  ✔ Cleared
-  Chunin           ████████████████████  ✔ Cleared
-  Jonin            ██████████████░░░░░░  ⚡ Training...
-  Hokage           ████░░░░░░░░░░░░░░░░  🔥 The Dream
+  Apprentice   ████████████████████  ✔ Cleared
+  Adept        ████████████████████  ✔ Cleared
+  Elite        ████████████████░░░░  ⚡ Training...
+  Master       ████░░░░░░░░░░░░░░░░  🔥 The Goal
 ```
 
 ---
@@ -149,7 +147,7 @@ Currently mastering how intelligent models can become more **accurate, efficient
 
 ---
 
-## 🕊️ Messenger Hawks (Find Me Online)
+## 🕊️ Find Me Online
 
 <div align="center">
 
@@ -184,14 +182,11 @@ Currently mastering how intelligent models can become more **accurate, efficient
 <div align="center">
 
 ```text
-              ────  🍥 CHAKRA STATUS  🍥  ────
+              ────  SYSTEM STATUS  ────
 
-             RESEARCHING  ████████████  ACTIVE
-             LEARNING     ████████████  ALWAYS
-             DETERMINATION ███████████  UNLIMITED
-             CHAKRA       ████████████  MAX
+             RESEARCHING    ████████████  ACTIVE
+             LEARNING       ████████████  ALWAYS
+             DETERMINATION  ████████████  UNLIMITED
 ```
-
-### 🍃 *Believe it!* 🍃
 
 </div>
