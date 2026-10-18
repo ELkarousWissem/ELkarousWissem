@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=wissemkarous&style=for-the-badge&color=FF6B00&label=VISITORS" />
 
 <br/><br/>
 
