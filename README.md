@@ -2,7 +2,7 @@
 
 #  🌀 HI, I'M WISSEM  🌀
 
-### AI Research Scientist · Deep Learning · NLP · Intelligent Systems
+### AI Research Scientist 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=AI+Research+Scientist+%F0%9F%A5%B7;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Training+my+models+like+a+shinobi+%F0%9F%94%A5;Research+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Repeat;Welcome+to+my+dojo+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
 
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-> **🔥 Never give up. Train harder. Surpass your limits. 🔥**
+> **🔥You will never walk alone . 🔥**
 
 </div>
 
